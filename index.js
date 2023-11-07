@@ -27,4 +27,4 @@ async function sendPostRequest() {
   }
 }
 
-setInterval(sendPostRequest, 1000);
+setInterval(sendPostRequest, 500);
